@@ -1,10 +1,9 @@
 <p align="center">IPOCHANS - Web App Pelaporan Konten Illegal (Laravel)</p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+    Follow My Instagram
+<a href="https://travis-ci.org/laravel/framework">@ehhimam_larh</a>
+<a href="https://packagist.org/packages/laravel/framework">www.imamlarh.com</a>
 </p>
 
 ## About Ipochan
@@ -15,45 +14,30 @@ IPOCHANS adalah sebuah app berbasis website untuk pengduan konten illegal sepert
 
 Berikut ini beberapa fitur yang terdapat pada level admin:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Mengelolah Kategori].
+- [Mengelolah Data Aduan].
+- [Mengelolah User].
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Di level admin hanya ada 3 data yang dapat dikelolah oleh Admin, yaitu Kategori, Aduan dan User.
 
-## Learning Laravel
+## Level User
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Berikut ini beberapa fitur yang terdapat pada level user:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- [Membuat Aduan].
 
-## Laravel Sponsors
+Di level user yang ada satu data yang dapat diolah oleh user yaitu Aduan, User dapat melakukan Create, Delete dan Update data aduan.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Framework yang digunakan
 
-### Premium Partners
+IPOCHANS menggunakan framework Laravel Versi 3 dalam pembutannya. 
+Web ipochan sudah memiliki Front dan Back End.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
-## Contributing
+## Note
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+App Web Ipochan Ini dibuat untuk sebagai latihan dalam belajar saya pada framework laravel, web app ipochan ini masih jauh dari kata sempurna dan masih banyak celah-celah didalamnya. <br>
+Source Code Ipochan ini dapat kamu gunakan untuk belajar atau dapat sebagai referensi kamu dalam belajar bahasa pemograman atau framework.
 
 ## Code of Conduct
 
