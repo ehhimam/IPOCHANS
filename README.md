@@ -11,6 +11,10 @@
 
 IPOCHANS adalah sebuah app berbasis website untuk pengduan konten illegal seperti (Web Judi, Web Pornografi, Web Dewasa dan Web Illegal lainnya), APP IPOCHANS memiliki dua akses level yaitu ADMIN dan USER (Pengadu).
 
+## Level Admin
+
+Berikut ini beberapa fitur yang terdapat pada level admin:
+
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
